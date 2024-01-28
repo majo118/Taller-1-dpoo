@@ -1,0 +1,13 @@
+tipo:Gasolina amarilla:10000:500.0
+tipo:Gasolina incolora:11000:300.0
+tipo:Gasolina escarchada:15000:600.0
+tipo:Gasolina morada:12000:400.0
+surtidor:Lima Rodriguez:Gasolina amarilla:0.0:Gasolina incolora:0.0:Gasolina escarchada:0.0:Gasolina morada:0.0
+surtidor:Blanca Castillo:Gasolina amarilla:0.0:Gasolina incolora:0.0:Gasolina escarchada:0.0:Gasolina morada:0.0
+surtidor:Blanca Castillo:Gasolina amarilla:0.0:Gasolina incolora:0.0:Gasolina escarchada:0.0:Gasolina morada:0.0
+surtidor:Lima Rodriguez:Gasolina amarilla:0.0:Gasolina incolora:0.0:Gasolina escarchada:0.0:Gasolina morada:0.0
+empleado:Marcos Sanches:0
+empleado:Celeste Gomez:0
+empleado:Pablo Arias:0
+empleado:Blanca Castillo:0
+empleado:Lima Rodriguez:0
